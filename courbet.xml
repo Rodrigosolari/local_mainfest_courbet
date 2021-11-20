@@ -13,11 +13,13 @@
     <project path="vendor/xiaomi/sm6125-common" name="Xiaomi-trinket-dev/vendor_xiaomi_sm6125-common" remote="github" revision="lineage-16.0" />
     -->
     <project path="hybris/hybris-boot" name="rodrigosolari/hybris-boot" remote="github" revision="master" />
+   
+    <!--
     <project path="hybris/droid-configs" name="rodrigosolari/droid-config-ginkgo" remote="github" revision="master" />
     <project path="hybris/droid-hal-version" name="rodrigosolari/droid-hal-version-ginkgo" remote="github" revision="master" />
     <project path="rpm" name="Rodrigosolari/droid-hal-ginkgo" remote="github" revision="master" />
     <project path="rpm/dhd" name="mer-hybris/droid-hal-device" remote="github" revision="master" />
-    <!--
+
     <project path="hybris/libhybris" name="mer-hybris/libhybris" remote="github" revision="master" />
    
     <project path="external/libhybris" name="mer-hybris/libhybris" remote="github" revision="master" />
