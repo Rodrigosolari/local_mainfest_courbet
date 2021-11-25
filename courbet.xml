@@ -6,7 +6,7 @@
     <!--Repositories to add-->  
     <project path="kernel/xiaomi/sm6150" name="rodrigosolari/kernel_xiaomi_sm6150" remote="github" revision="courbet" />
     <project path="device/xiaomi/courbet" name="rodrigosolari/android_device_xiaomi_courbet" remote="github" revision="lineage-18.1" />
-    <project path="device/xiaomi/sm6150-common"  name="rodrigosolari/android_device_xiaomi_sm6150-common"  remote="github" revision="ineage-18.1-courbet" />
+    <project path="device/xiaomi/sm6150-common"  name="rodrigosolari/android_device_xiaomi_sm6150-common"  remote="github" revision="lineage-18.1-courbet" />
     
     <project path="vendor/xiaomi" name="rodrigosolari/android_vendor_xiaomi" remote="github" revision="lineage-18.1-courbet" />
    
